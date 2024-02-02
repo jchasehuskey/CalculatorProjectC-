@@ -1,0 +1,14 @@
+/Users/chasehuskey/Desktop/CalculatorProject/bin/Debug/net8.0/CalculatorProject
+/Users/chasehuskey/Desktop/CalculatorProject/bin/Debug/net8.0/CalculatorProject.deps.json
+/Users/chasehuskey/Desktop/CalculatorProject/bin/Debug/net8.0/CalculatorProject.runtimeconfig.json
+/Users/chasehuskey/Desktop/CalculatorProject/bin/Debug/net8.0/CalculatorProject.dll
+/Users/chasehuskey/Desktop/CalculatorProject/bin/Debug/net8.0/CalculatorProject.pdb
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.AssemblyInfoInputs.cache
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.AssemblyInfo.cs
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.csproj.CoreCompileInputs.cache
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.dll
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/refint/CalculatorProject.dll
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.pdb
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.genruntimeconfig.cache
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/ref/CalculatorProject.dll
