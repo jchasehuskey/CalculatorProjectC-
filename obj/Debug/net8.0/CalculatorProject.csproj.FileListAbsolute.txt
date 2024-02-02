@@ -12,3 +12,4 @@
 /Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.pdb
 /Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.genruntimeconfig.cache
 /Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/ref/CalculatorProject.dll
+/Users/chasehuskey/Desktop/CalculatorProject/obj/Debug/net8.0/CalculatorProject.sourcelink.json
