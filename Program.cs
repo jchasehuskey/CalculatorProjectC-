@@ -11,9 +11,38 @@ System.Console.WriteLine("Which operation should be executed?");
 System.Console.WriteLine("[A]dd numbers");
 System.Console.WriteLine("[S]ubtract numbers");
 System.Console.WriteLine("[M]uliply numbers");
-var choice = Console.Readline();
+var choice = Console.ReadLine();
 
+// if (choice == "A" || choice == "a")
+if (EqualsCaseInsensitive(choice, "A"))
+{
+    var sum = actualNumber + actualSecondnumber;
+    PrintFinalEquation(actualNumber, actualSecondnumber, sum, "+");
+}
+else if (EqualsCaseInsensitive(choice, "S"))
+{
+    var difference = actualNumber - actualSecondnumber;
+    PrintFinalEquation(actualNumber, actualSecondnumber, difference, "-");
+}
+else if (EqualsCaseInsensitive(choice, "M"))
+{
+    var multiplied = actualNumber * actualSecondnumber;
+    PrintFinalEquation(actualNumber, actualSecondnumber, multiplied, "*");
+}
+else
+{
+    System.Console.WriteLine("invalid choice");
+}
 
+void PrintFinalEquation(int actualNumber, int actualSecondNumber, int result, string @operator)
+{
+    System.Console.WriteLine(actualNumber + " " + @operator + " " + actualSecondNumber + " " + "=" + " " + result);
+}
+
+bool EqualsCaseInsensitive(string left, string right)
+{
+    return left.ToUpper() == right.ToUpper();
+}
 
 
 System.Console.WriteLine("Press any key to close.");
